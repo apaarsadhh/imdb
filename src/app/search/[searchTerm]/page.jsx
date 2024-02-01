@@ -1,5 +1,5 @@
 import React from 'react'
-import Results from '../../components/results'
+import Results from '../../components/Results'
 
 
 
